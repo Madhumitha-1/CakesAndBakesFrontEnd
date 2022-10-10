@@ -1,0 +1,32 @@
+.product-container{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 150px;
+    height: 300x;
+     padding: 0.5em;
+    margin: 3em;
+}
+.product-details-container {
+    padding: 2px 16px;
+}
+
+.product-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.all-products-contain {
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+
+
+}
+.body{
+    background-color: antiquewhite;
+}
